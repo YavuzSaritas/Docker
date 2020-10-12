@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>S03E05-f426967a-c5cf-4d9f-b3ba-ba1709a3c45c</UserSecretsId>
+    <!-- Https sertificası için Id oluşturuldu -->
+  </PropertyGroup>
+
+
+</Project>
